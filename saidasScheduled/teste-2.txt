@@ -1,3 +1,6 @@
+  GNU nano 2.2.6                                                                                        File: mandel.batchjob.o126986                                                                                                                                                                                       
+
+--------------------------------------
 Running PBS prologue script
 
 Checking all prerequisites...
@@ -5,7 +8,7 @@ Done.
 
 Running on host grad01
 
-Initial Time is Wed May 20 23:59:55 BRT 2020
+Initial Time is Thu May 21 00:58:57 BRT 2020
 
 Directory is /home/pp12719/t1
 
@@ -13,30 +16,30 @@ This jobs runs on the following nodes:
 grad01
 
 JOB_ID:
-126971
+126986
 
 NPOINTS: 500 | Mandlebrot Area set =   1.51121250 +/-   0.00302243
-Time :   0.82319890 in  seconds
+Time :   0.85072524 in  seconds
 NPOINTS: 1000 | Mandlebrot Area set =   1.51020562 +/-   0.00151021
-Time :   3.24893365 in  seconds
+Time :   3.39257081 in  seconds
 NPOINTS: 1500 | Mandlebrot Area set =   1.50959500 +/-   0.00100640
-Time :   7.30242539 in  seconds
+Time :   7.62528197 in  seconds
 NPOINTS: 2000 | Mandlebrot Area set =   1.50928453 +/-   0.00075464
-Time :  12.96276234 in  seconds
+Time :  13.53760639 in  seconds
 NPOINTS: 2500 | Mandlebrot Area set =   1.50905790 +/-   0.00060362
-Time :  20.23193282 in  seconds
+Time :  22.72022261 in  seconds
 NPOINTS: 3000 | Mandlebrot Area set =   1.50903813 +/-   0.00050301
-Time :  29.10472781 in  seconds
+Time :  31.89938513 in  seconds
 NPOINTS: 3500 | Mandlebrot Area set =   1.50894735 +/-   0.00043113
-Time :  39.61504264 in  seconds
+Time :  41.73181729 in  seconds
 NPOINTS: 4000 | Mandlebrot Area set =   1.50881590 +/-   0.00037720
-Time :  66.14319341 in  seconds
+Time :  56.81622654 in  seconds
 NPOINTS: 4500 | Mandlebrot Area set =   1.50882444 +/-   0.00033529
-Time : 101.26148969 in  seconds
+Time :  68.91254950 in  seconds
 NPOINTS: 5000 | Mandlebrot Area set =   1.50875573 +/-   0.00030175
-Time :  97.32630040 in  seconds
-/var/spool/torque/mom_priv/jobs/126971.SC: line 23: unexpected EOF while looking for matching ``'
-/var/spool/torque/mom_priv/jobs/126971.SC: line 24: syntax error: unexpected end of file
+Time :  85.08727243 in  seconds
+/var/spool/torque/mom_priv/jobs/126986.SC: line 23: unexpected EOF while looking for matching ``'
+/var/spool/torque/mom_priv/jobs/126986.SC: line 24: syntax error: unexpected end of file
 
 --------------------------------------
 Running PBS epilogue.user script
@@ -56,12 +59,11 @@ Done.
 
 Resources used:
 
- -- CPU TIME     = 00:11:43
+ -- CPU TIME     = 00:09:29
 
  -- MEMORY       = 2296kb
 
  -- VIRTUAL MEM  = 30136kb
 
- -- ELAPSED TIME = 00:06:18
-
+ -- ELAPSED TIME = 00:05:33
 
