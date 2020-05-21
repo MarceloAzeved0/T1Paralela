@@ -1,0 +1,68 @@
+126974
+--------------------------------------
+Running PBS prologue script
+
+Checking all prerequisites...
+Done.
+
+Running on host grad02
+
+Initial Time is Thu May 21 00:03:47 BRT 2020
+
+Directory is /home/pp12719/t1
+
+This jobs runs on the following nodes:
+grad02
+
+JOB_ID:
+126974
+
+NPOINTS: 500 | Mandlebrot Area set =   1.51121250 +/-   0.00302243
+Time :   0.16207454 in  seconds
+NPOINTS: 1000 | Mandlebrot Area set =   1.51020562 +/-   0.00151021
+Time :   0.68613078 in  seconds
+NPOINTS: 1500 | Mandlebrot Area set =   1.50959500 +/-   0.00100640
+Time :   1.56394836 in  seconds
+NPOINTS: 2000 | Mandlebrot Area set =   1.50928453 +/-   0.00075464
+Time :   2.79490058 in  seconds
+NPOINTS: 2500 | Mandlebrot Area set =   1.50905790 +/-   0.00060362
+Time :   4.10408441 in  seconds
+NPOINTS: 3000 | Mandlebrot Area set =   1.50903813 +/-   0.00050301
+Time :   6.23293550 in  seconds
+NPOINTS: 3500 | Mandlebrot Area set =   1.50894735 +/-   0.00043113
+Time :   8.01470331 in  seconds
+NPOINTS: 4000 | Mandlebrot Area set =   1.50881590 +/-   0.00037720
+Time :  10.93041154 in  seconds
+NPOINTS: 4500 | Mandlebrot Area set =   1.50882444 +/-   0.00033529
+Time :  13.98234842 in  seconds
+NPOINTS: 5000 | Mandlebrot Area set =   1.50875573 +/-   0.00030175
+Time :  16.40971217 in  seconds
+/var/spool/torque/mom_priv/jobs/126974.SC: line 23: unexpected EOF while looking for matching ``'
+/var/spool/torque/mom_priv/jobs/126974.SC: line 24: syntax error: unexpected end of file
+
+--------------------------------------
+Running PBS epilogue.user script
+
+End of PBS epilogue.user script
+
+--------------------------------------
+Running PBS epilogue script
+
+Disabling access of user pp12719 on the batch nodes
+Doing node grad02
+
+ -- Killing all stale user  processes... done.
+ -- Cleaning-up any shmemory segments... done.
+
+Done.
+
+Resources used:
+
+ -- CPU TIME     = 00:11:00
+
+ -- MEMORY       = 2296kb
+
+ -- VIRTUAL MEM  = 144880kb
+
+ -- ELAPSED TIME = 00:01:05
+
